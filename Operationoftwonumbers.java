@@ -1,4 +1,3 @@
-
 package com.mycompany.operationoftwonumbers;
 import java.util.Scanner;
 

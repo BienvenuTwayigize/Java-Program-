@@ -1,4 +1,3 @@
-
 package com.mycompany.zeller;
 import java.util.Scanner;
 public class Zeller {
